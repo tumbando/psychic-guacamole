@@ -1,0 +1,66 @@
+body {
+  background-image: url(assets/images/tropical.jpg);
+  background-size:cover;
+}
+.hidden {
+  display: none;
+}
+.container {
+    height: 30rem;
+    width: 40rem;
+    background: aqua;
+    margin: 0 auto;
+    border: 1px solid black;
+    margin-top: 9rem;
+}
+
+.welcomeContainer {
+    text-align: center;
+    margin-top: 12rem;
+}
+
+.welcome{
+  margin: 0 auto;
+}
+
+h2{
+
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+
+.texts {
+  height: 24.6rem;
+  width: 40rem;
+  background: white;
+  overflow:scroll;
+}
+.othertexts {
+  background: #ceddce;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 5px auto;
+}
+.textToSend {
+    height: 2rem;
+    width: 35rem;
+    background: gray;
+    margin: 0 auto;
+}
+.mytexts {
+  background: #7bc146;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.username {
+  height: 5rem;
+  width: 7rem;
+  display: inline-block;
+  background: pink;
+}
+
+.chatroom button {
+  margin-left: 10px;
+}
